@@ -1,0 +1,15 @@
+#aNbNaN
+1 Start, a, *, R, 2
+1 Start, _, _, R, Halt
+2, a, a, R, 2
+2, b, b, R, 3
+3, b, b, R, 3
+3, a, a, L, 4
+4, b, a, R, 5
+5, a, a, R, 5
+5, _, _, L, 6
+6, a, _, L, 7
+7, a, _, L, 8
+8, a, a, L, 8
+8, b, b, L, 8
+8, *, *, R, 1 Start

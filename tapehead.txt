@@ -1,0 +1,10 @@
+# Loops on anything with an a in it
+Start, a, a, R, 3
+Start, b, b, R, 2
+2, a, a, R, 3
+2, b, b, R, 2
+2, _, _, R, Halt
+3, a, a, R, 3
+3, b, b, R, 3
+3, _, _, R, 3
+Halt

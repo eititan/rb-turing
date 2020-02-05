@@ -1,0 +1,6 @@
+# begins with a
+1 Start, a, a, R, 2
+2, a, a, R, 2
+2, b, b, R, 2
+2, _, _, R, Halt
+Halt

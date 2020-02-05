@@ -1,0 +1,4 @@
+# All a's
+Start, a, a, R, 2
+2, a, a, R, 2
+2, _, _, R, Halt
